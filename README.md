@@ -27,7 +27,7 @@ Right now I'm more focused on Frontend development, but my end goal it to work w
 💬 You can ask me about everithing. I'll be glad to help.
 
 📫 You can reach me at: 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevaojoelsonjr/)]
+  [Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevaojoelsonjr/)
   
 
 Here are some ideas to get you started:
