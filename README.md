@@ -11,10 +11,8 @@ Right now I'm more focused on Frontend development, but my end goal it to work w
 💬 You can ask me about everithing. I'll be glad to help.
 
 📫 You can reach me at: 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevaojoelsonjr/)]
   
-   molde:
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevaojoelsonjr/)](https://www.linkedin.com/in/estevaojoelsonjr/)
   
   
 
