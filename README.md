@@ -30,7 +30,7 @@ Right now I'm more focused on Frontend , but my end goal is to be able to work w
 ## ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=joelsonejr&show_icons=true&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelsonejr&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelsonejr&hide=TeX&layout=compact&theme=dracula)
 
   
   
