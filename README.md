@@ -4,9 +4,9 @@ I'm currently transitioning to software development, and it's being an amazing e
 
 Right now I'm more focused on Frontend , but my end goal is to be able to work with Fullstack. 
 
-🌱 I'm currently studying HTML, CSS and JavaScript, to improve my foundations, and get ready to move toward the nex level (🤔 Still deciding between Vue and React).
+🌱 I'm studying HTML, CSS and JavaScript, to improve my foundations, and get ready to move toward the nex level (🤔 Still deciding between Vue and React).
 
-🔭 I’m currently working on some small projects. Most of them came straight from the lessons I attend to, but very soon I'll publish something of my own.
+🔭 Right now I'm working on some small projects. Most of them came straight from the lessons I attend to, but very soon I'll publish something of my own.
 
 💬 You can ask me about everything. I'll be glad to help.
 
@@ -24,9 +24,9 @@ Right now I'm more focused on Frontend , but my end goal is to be able to work w
   <img align="center" alt="HTML5 logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3 logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!--   <img align="center" alt="Csharp logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="center" alt="Git logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/git-original.svg">
-  <img align="center" alt="Github logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/github-original.svg">
-  <img align="center" alt="Linux logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/linux-original.svg">
+  <img align="center" alt="Git logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Github logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Linux logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 
