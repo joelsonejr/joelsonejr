@@ -4,7 +4,7 @@ I'm currently transitioning to software development, and it's being an amazing e
 
 Right now I'm more focused on Frontend , but my end goal is to be able to work with Fullstack. 
 
-🌱 I'm studying HTML, CSS and JavaScript, to improve my foundations, and get ready to move toward the nex level (🤔 Still deciding between Vue and React).
+🌱 I'm studying HTML, CSS and JavaScript, to improve my foundations, and in parallel learning ReactJS.
 
 🔭 Right now I'm working on some small projects. Most of them came straight from the lessons I attend to, but very soon I'll publish something of my own.
 
