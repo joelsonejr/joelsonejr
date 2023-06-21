@@ -31,8 +31,12 @@ Right now I'm more focused on Frontend , but my end goal is to be able to work w
 
 
 ## ⚡ GitHub Stats
-
+<!-- OLD STATS COUNTER. It was commented because the behaviour was erratic.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=joelsonejr&show_icons=true&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true)
+-->
+
+![Joelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelsonejr&hide=contribs,prs)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelsonejr&hide=TeX&layout=compact&theme=dracula)
 
   
