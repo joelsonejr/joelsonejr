@@ -13,7 +13,7 @@ I'm a jr fullstack developer, who has been working with solutions destined to a 
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,javascript&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=js,html,css,ts,react,javascript&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
@@ -21,7 +21,7 @@ I'm a jr fullstack developer, who has been working with solutions destined to a 
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,mongodb&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,py&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
@@ -29,7 +29,7 @@ I'm a jr fullstack developer, who has been working with solutions destined to a 
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=gcp,github,git,linux,vscode&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=linux,gcp,github,git,linux,vscode&theme=dark&perline=3" />
 </p>
 
 </td></tr></table>
