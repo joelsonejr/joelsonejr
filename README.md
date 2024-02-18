@@ -5,21 +5,6 @@ I'm a jr fullstack developer, who has been working with solutions destined to a 
 💬 You can ask me about everything. I'll be glad to help.
 
 
-  
-## 🚀💻 Technologies & Tools
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="javascript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="TypeScript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="React logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="HTML5 logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3 logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="Csharp logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="center" alt="Git logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Linux logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
-
 <br/><br/>
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
@@ -36,7 +21,7 @@ I'm a jr fullstack developer, who has been working with solutions destined to a 
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,sql,oracle,mongodb&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,mongodb&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
