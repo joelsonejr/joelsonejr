@@ -29,7 +29,7 @@ I'm a jr fullstack developer, who has been working with solutions destined to a 
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,gcp,github,git,linux,vscode&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=gcp,github,git,linux,vscode&theme=dark&perline=3" />
 </p>
 
 </td></tr></table>
