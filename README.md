@@ -36,38 +36,62 @@ Right now I'm more focused on Frontend , but my end goal is to be able to work w
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelsonejr&hide=TeX&layout=compact&theme=dracula)
 
+
+
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
+
+<table align="center"><tr><td valign="top" width="33%">
+
+### <div align="center"> Frontend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mui,graphql,reactnative&theme=light&perline=3" />
+</p>
+
+</td><td valign="top" width="33%">
+
+### <div align="center"> Backend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,rabbitmq,postgres&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="33%">
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,vercel,github,git,firebase,vscode&theme=dark&perline=3" />
+</p>
+
+</td></tr></table>
+<br/><br/>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakeliny&theme=radical" />
+</p>
+<br/><br/>
+
+# 📫 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/jakelinygracielly/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://jakeliny.com" target="_blank">
+<img src="https://img.shields.io/badge/mysite-b200ed.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.twitch.tv/jakeliny" target="_blank">
+<img src="https://img.shields.io/badge/twitch-6441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white" alt=twitch style="margin-bottom: 5px;" />
+</a>   
+</div>  
+<br/><br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakeliny&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakeliny&theme=radical)
+
   
   
 
-<!--
-**joelsonejr/joelsonejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm currently transitioning into the software development area, and it's being an amazing experience. 
-
-Right now I'm more focused on Frontend development, but my end goal it to work with Fullstack development. 
-
-🌱 I'm currently stuldying HTML, CSS and JavaScript, to improve my foundations, and get ready to go toward the nex level (🤔 Still deciding between Vue and React).
-
-🔭 I’m currently working on some small projects. Most of them came straight from my lessons. But very soon I'll publish something of my own.
-
-💬 You can ask me about everithing. I'll be glad to help.
-
-📫 You can reach me at: 
-  [Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevaojoelsonjr/)
-  
-  
-  molde:
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)
-  
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
